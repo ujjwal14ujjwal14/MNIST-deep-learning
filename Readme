@@ -1,0 +1,1 @@
+Here's a deep learning project of MNIST digit recognition using keras. A callback function is also implemented which stops the training once the accuracy reaches a particular threshold.
